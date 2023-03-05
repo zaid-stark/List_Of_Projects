@@ -23,9 +23,6 @@ In this website Students can make to-do List, make reminder on google calendar, 
 
 ###   Aug 2022 - Aug 2022  
 <a href="https://zaid-stark.github.io/First-_CSS/">Simple_CSS_Project </a> <p>This is my first CSS project while learning CSS. </p>
-<hr>
-
-
-###   Aug 2022 - Aug 2022  
+<br>
 <a href="https://zaid-stark.github.io/FirstHtml-/">Resume</a> <p>Resume using HTML. </p>
 <hr>
