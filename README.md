@@ -12,10 +12,7 @@ In this website Students can make to-do List, make reminder on google calendar, 
 
 ###  Oct 2022 - Oct 2022  
 <a href="https://zaid-stark.github.io/Sign_Up-Page/">Sign_Up_Page </a> <p> This is my Sign_up page. Which i made during my internship. </p>
-<hr>
-
-
-###  Oct 2022 - Oct 2022  
+<br> 
 <a href="https://zaid-stark.github.io/Charity/">Charity</a> <p> Front End for an NGO. Contains landing, login and signup page. </p>
 <hr>
 
