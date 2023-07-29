@@ -6,6 +6,9 @@
 <p>A clone website of Legal Suvidha</p>
 <hr>
 
+<a href="https://zaid-stark.github.io/3_Secrets-to_Becoming_a_SUPERMOM/">3 Secrets to Becoming a SUPERMOM</a> 
+<p>A clone website of 3 Secrets to Becoming a SUPERMOM in हिन्दी.</p>
+
 ### Dec2022-Jan 2023
 <a href="https://zaid-stark.github.io/Student_app/">Student_App</a>  <p>This is our college minor project. We made this project using HTML, CSS, BOOTSTRAP, JS & PHP.
 In this website Students can make to-do List, make reminder on google calendar, chats with each other and many other features are there.</p>
