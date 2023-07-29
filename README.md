@@ -9,6 +9,10 @@
 <p>-----------------------------------------------------------------------------------------------------------------------------------</p>
   <li><a href="https://zaid-stark.github.io/3_Secrets-to_Becoming_a_SUPERMOM/">3 Secrets to Becoming a SUPERMOM</a> 
 <p>A clone website of 3 Secrets to Becoming a SUPERMOM in हिन्दी.</p></li>
+<p>-----------------------------------------------------------------------------------------------------------------------------------</p>
+    <li><a href="https://zaid-stark.github.io/Tech_Website/">Tech Website</a> 
+<p>Tech Website of marketing.</p></li>
+
 </ul>
 
 <hr>
